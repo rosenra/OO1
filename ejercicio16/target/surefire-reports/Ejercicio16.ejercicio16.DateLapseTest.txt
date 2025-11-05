@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Ejercicio16.ejercicio16.DateLapseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.175 s <<< FAILURE! - in Ejercicio16.ejercicio16.DateLapseTest
+testIncludesDate  Time elapsed: 0.128 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at Ejercicio16.ejercicio16.DateLapseTest.testIncludesDate(DateLapseTest.java:22)
+
